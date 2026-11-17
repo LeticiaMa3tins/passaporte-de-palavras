@@ -39,3 +39,7 @@ Abra http://localhost:8000. Não é necessário instalar dependências nem execu
 O progresso fica no navegador de cada usuário e não é armazenado no GitHub. Use a exportação do aplicativo para transferi-lo entre aparelhos ou endereços.
 
 Este repositório é uma cópia do código. Alterações nele não atualizam automaticamente o site hospedado.
+
+## Licença
+
+O código original do Passaporte de Palavras está disponível sob a [licença MIT](LICENSE). Materiais didáticos, gravações e outros conteúdos de terceiros permanecem sujeitos às condições das respectivas fontes.
